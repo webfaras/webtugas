@@ -1,0 +1,175 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+}
+.navbar {
+    background-color: red;
+    width: 100%;
+    height: 100px;
+}
+
+.ul{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li{
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+    color: red;
+    font-size:20px;
+}
+
+.li:hover {
+    background-color: tomato;
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 8px;
+}
+
+.ali {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul1{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li1{
+    list-style-type: none;
+    padding: 20px;
+    color:red;
+    font-size:30px;
+}
+
+.li1:hover {
+    background-color: tomato;
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 8px;
+}
+
+
+.ul2{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li2{
+    list-style-type: none;
+    padding: 20px;
+    color: white;
+    font-size:30px;
+}
+
+.li2:hover {
+    background-color: tomato;
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 8px;
+}
+
+.ul3{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li3{
+    list-style-type: none;
+    padding: 20px;
+    color:red;
+    font-size:30px;
+}
+
+.li3:hover {
+    background-color: tomato;
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 8px;
+}
+
+
+.ali1 {
+    color: black;
+    text-decoration: none;
+}
+
+.ali2 {
+    color: black;
+    text-decoration: none;
+}
+
+.ali3 {
+    color: black;
+    text-decoration: none;
+}
+
+.about{
+    list-style-type: none;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.content2{
+    list-style-type: none;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about2{
+    list-style-type: none;
+    padding: 20px;
+    color: black;
+    font-size:30px;
+}
+
+
+
+.footer {
+    bottom: 0;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+
+   
+}
+
+.h1 {
+    bottom: 0;
+    padding: 20px;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
